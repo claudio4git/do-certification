@@ -1,7 +1,7 @@
 # Working with Java data types
 
-## Use primitives and wrapper classes, including, operators, parentheses, type promotion and casting
-[1.1](./1.1)
+### [1.1](./1.1) Use primitives and wrapper classes, including, operators, parentheses, type promotion and casting
+
 
 ## Handle text using String and StringBuilder classes
 [1.2](./1.2)
